@@ -62,5 +62,6 @@ Bob-->Alice: I am good thanks!
 - [ ] 待办事项1
 - [ ] 待办事项2
 
-
+## Git简介
+> Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。本文的Git学习来自于廖雪峰的Git教程。—— [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
